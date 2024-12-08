@@ -1,0 +1,8 @@
+on google cloud shell or linux, type:
+
+touch (file name).sh
+chmod +x (file name).sh
+nano (file name).sh
+sh (file name).sh
+then exit from the shell script by pressing ctrl+c or ctrl+x
+./(file name).sh
